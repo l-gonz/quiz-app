@@ -1,0 +1,34 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz!</string>
+    <string name="submit">Submit</string>
+    <string name="toast_singular">You got 1 question out of 6 right</string>
+    <string name="toast_plural">You got <xliff:g id="number_of_rights">%d</xliff:g> questions out of 6 right</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+    <string name="question6">Question 6</string>
+    <string name="question1_text">Who is the king of the Greek gods?</string>
+    <string name="q1a1">Poseidon</string>
+    <string name="q1a2">Hera</string>
+    <string name="q1a3">Zeus</string>
+    <string name="q1a4">Hercules</string>
+    <string name="question2_text">Which of these gods/goddesses are siblings?</string>
+    <string name="q2a1">Hades</string>
+    <string name="q2a2">Artemis</string>
+    <string name="q2a3">Apollo</string>
+    <string name="q2a4">Aphrodite</string>
+    <string name="question3_text">Who is the Greek goddess of rainbows?</string>
+    <string name="question4_text">Which of these are titans?</string>
+    <string name="q4a1">Cronus</string>
+    <string name="q4a2">Atlas</string>
+    <string name="q4a3">Uranus</string>
+    <string name="q4a4">Prometheus</string>
+    <string name="question5_text">What is the name of the Greek gods home?</string>
+    <string name="question6_text">Who was a child of Poseidon?</string>
+    <string name="q6a1">Hercules</string>
+    <string name="q6a2">Theseus</string>
+    <string name="q6a3">Helena</string>
+    <string name="q6a4">Perseus</string>
+</resources>
